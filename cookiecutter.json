@@ -1,8 +1,0 @@
-{
-	"airflow_executor": ["Kubernetes"],
-	"local_airflow_image_name": "chriset/airflow",
-	"git_repo_to_sync_dags": "https://github.com/christinaet/scalable-airflow-templates.git",
-	"git_username_in_base_64": "Y2hyaXN0aW5hZXQ=",
-	"git_password_in_base_64": "SG9ja2V5Y2F0c3B5dGhvbg==",
-	"fernet_key": "LTC-FSYSJ4mKfHrHyk1jMcbsNZCWFQrm8FU3rp3JeRQ="
-}
